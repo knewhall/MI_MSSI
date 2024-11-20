@@ -1,5 +1,7 @@
 # MI_MSSI
-self time-delayed mutual information of time series data
+Contained in this directory is the code used to (1) generate particle trajectories of a self-avoidant model droplet (2) compute a straightness index time series to quantify the curvature of the trajectory over a selected course-graining and (3) compute the time-delayed self mutual information of this straightness time series.  
+
+If you use this code, please cite: [K. Daftari and K. Newhall (2024) "Memory signatures in path curvature of self-avoidant model particles are revealed by time delayed self mutual information" 	arXiv:2403.19393](https://arxiv.org/abs/2403.19393)
 
 ## compute_MI_of_MSSI.py
 This file computes the time-delayed self mutual information of the straightness index time series data
