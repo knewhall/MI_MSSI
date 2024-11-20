@@ -14,3 +14,6 @@ This file computes the velocity correlation function of the trajectory data
 
 ## run_paths_pool.py
 This file generates the trajectory data of the self-avoidant droplet model
+
+It calls functions from Combined_fxns_single_2D.py for the full model or can be changed to call functions from Combined_trunc_fxns_single_2D.py for the truncated time-integral model
+
